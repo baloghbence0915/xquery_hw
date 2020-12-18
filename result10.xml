@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laurates>
+   <laurate name="Boris Leonidovich Pasternak">
+      <prizestatus>restricted</prizestatus>
+   </laurate>
+   <laurate name="Jean-Paul Sartre">
+      <prizestatus>declined</prizestatus>
+   </laurate>
+   <laurate name="Le Duc Tho ">
+      <prizestatus>declined</prizestatus>
+   </laurate>
+</laurates>
