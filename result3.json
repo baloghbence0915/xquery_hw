@@ -1,0 +1,414 @@
+[
+    {
+      "prizes": [ 
+        {
+          "motivation": "for its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of hunger as a weapon of war and conflict",
+          "institution": [  ],
+          "year": "2020",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1961",
+      "acronym": "WFP",
+      "name": {
+        "nat": null,
+        "en": "World Food Programme"
+      },
+      "location": ""
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons",
+          "institution": [  ],
+          "year": "2017",
+          "category": "Peace"
+        } ],
+      "foundationDate": "2007",
+      "acronym": "ICAN",
+      "name": {
+        "nat": "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "en": "International Campaign to Abolish Nuclear Weapons (ICAN)"
+      },
+      "location": "Oceania, Australia"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011",
+          "institution": [  ],
+          "year": "2015",
+          "category": "Peace"
+        } ],
+      "foundationDate": null,
+      "acronym": null,
+      "name": { 
+        "nat": "National Dialogue Quartet",
+        "en": "National Dialogue Quartet " },
+      "location": ""
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for its extensive efforts to eliminate chemical weapons",
+          "institution": [  ],
+          "year": "2013",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1997",
+      "acronym": "OPCW",
+      "name": {
+        "nat": "Organisation for the Prohibition of Chemical Weapons (OPCW)",
+        "en": "Organisation for the Prohibition of Chemical Weapons"
+      },
+      "location": ""
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe",
+          "institution": [  ],
+          "year": "2012",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1952",
+      "acronym": "EU",
+      "name": { 
+        "nat": "European Union (EU)",
+        "en": "European Union (EU)" },
+      "location": ""
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change",
+          "institution": [  ],
+          "year": "2007",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1988",
+      "acronym": null,
+      "name": {
+        "nat": "Intergovernmental Panel on Climate Change (IPCC)",
+        "en": "Intergovernmental Panel on Climate Change"
+      },
+      "location": "North America, USA, New York, NY"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their efforts to create economic and social development from below",
+          "institution": [  ],
+          "year": "2006",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1976",
+      "acronym": null,
+      "name": { 
+        "nat": "Grameen Bank",
+        "en": "Grameen Bank" },
+      "location": "Asia, Bangladesh, Dhaka"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way",
+          "institution": [  ],
+          "year": "2005",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1957",
+      "acronym": "IAEA",
+      "name": {
+        "nat": "International Atomic Energy Agency (IAEA)",
+        "en": "International Atomic Energy Agency"
+      },
+      "location": "Europe, Austria, Vienna"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their work for a better organized and more peaceful world",
+          "institution": [  ],
+          "year": "2001",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1945",
+      "acronym": "U.N.",
+      "name": { 
+        "nat": "United Nations (U.N.)",
+        "en": "United Nations" },
+      "location": "North America, USA, New York, NY"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "in recognition of the organisation'\u0092s pioneering humanitarian work on several continents",
+          "institution": [  ],
+          "year": "1999",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1971",
+      "acronym": null,
+      "name": { 
+        "nat": "Médecins Sans Frontières",
+        "en": "Médecins Sans Frontières" },
+      "location": "Europe, France, Paris"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their efforts to ban and remove anti-personnel landmines",
+          "institution": [  ],
+          "year": "1997",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1992",
+      "acronym": null,
+      "name": {
+        "nat": "International Campaign to Ban Landmines (ICBL)",
+        "en": "International Campaign to Ban Landmines"
+      },
+      "location": "North America, USA"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms",
+          "institution": [  ],
+          "year": "1995",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1957",
+      "acronym": null,
+      "name": {
+        "nat": "Pugwash Conferences on Science and World Affairs",
+        "en": "Pugwash Conferences on Science and World Affairs"
+      },
+      "location": "North America, Canada, Pugwash"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for preventing armed clashes and creating conditions for negotiations",
+          "institution": [  ],
+          "year": "1988",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1948",
+      "acronym": null,
+      "name": {
+        "nat": "United Nations Peacekeeping Forces",
+        "en": "United Nations Peacekeeping Forces"
+      },
+      "location": "North America, USA, New York, NY"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for spreading authoritative information and by creating awareness of the catastrophic consequences of  nuclear  war",
+          "institution": [  ],
+          "year": "1985",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1980",
+      "acronym": "IPPNW",
+      "name": {
+        "nat": "International Physicians for the Prevention of Nuclear War",
+        "en": "International Physicians for the Prevention of Nuclear War"
+      },
+      "location": "North America, USA, Boston, MA"
+    },
+    {
+      "prizes": [
+        {
+          "motivation": "for its efforts to heal the wounds of war by providing help and protection to refugees all over the world",
+          "institution": [  ],
+          "year": "1954",
+          "category": "Peace"
+        },
+        {
+          "motivation": "for promoting the fundamental rights of refugees",
+          "institution": [  ],
+          "year": "1981",
+          "category": "Peace"
+        }
+      ],
+      "foundationDate": "1951",
+      "acronym": "UNHCR",
+      "name": {
+        "nat": "Office of the United Nations High Commissioner for Refugees",
+        "en": "Office of the United Nations High Commissioner for Refugees"
+      },
+      "location": "Europe, Switzerland, Geneva"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for worldwide respect for human rights",
+          "institution": [  ],
+          "year": "1977",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1961",
+      "acronym": null,
+      "name": { 
+        "nat": "Amnesty International",
+        "en": "Amnesty International" },
+      "location": "Europe, United Kingdom, London"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for creating international legislation insuring certain norms for working conditions in every country",
+          "institution": [  ],
+          "year": "1969",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1919",
+      "acronym": "ILO",
+      "name": {
+        "nat": "International Labour Organization (I.L.O.)",
+        "en": "International Labour Organization"
+      },
+      "location": "Europe, Switzerland, Geneva"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for its effort to enhance solidarity between nations and reduce the difference between rich and poor states",
+          "institution": [  ],
+          "year": "1965",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1946",
+      "acronym": "UNICEF",
+      "name": {
+        "nat": "United Nations Children's Fund (UNICEF)",
+        "en": "United Nations Children's Fund"
+      },
+      "location": "North America, USA, New York, NY"
+    },
+    {
+      "prizes": [
+        {
+          "motivation": "for the efforts to take care of wounded soldiers and prisoners of war and their families",
+          "institution": [  ],
+          "year": "1917",
+          "category": "Peace"
+        },
+        {
+          "motivation": "for the great work it has performed during the war on behalf of humanity",
+          "institution": [  ],
+          "year": "1944",
+          "category": "Peace"
+        },
+        {
+          "motivation": "for promoting the principles of the Geneva Convention and cooperation with the UN",
+          "institution": [  ],
+          "year": "1963",
+          "category": "Peace"
+        }
+      ],
+      "foundationDate": "1863",
+      "acronym": null,
+      "name": {
+        "nat": "Comité international de la Croix Rouge",
+        "en": "International Committee of the Red Cross"
+      },
+      "location": "Europe, Switzerland, Geneva"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for promoting the principles of the Geneva Convention and cooperation with the UN",
+          "institution": [  ],
+          "year": "1963",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1919",
+      "acronym": null,
+      "name": {
+        "nat": "Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies)",
+        "en": "League of Red Cross Societies"
+      },
+      "location": "Europe, France, Paris"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their pioneering work in the international peace movement and compassionate effort to relieve human suffering, thereby promoting the fraternity between nations",
+          "institution": [  ],
+          "year": "1947",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1917",
+      "acronym": "AFSC",
+      "name": {
+        "nat": "American Friends Service Committee (The Quakers)",
+        "en": "American Friends Service Committee"
+      },
+      "location": "North America, USA, Washington, DC"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for their pioneering work in the international peace movement and compassionate effort to relieve human suffering, thereby promoting the fraternity between nations",
+          "institution": [  ],
+          "year": "1947",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1647",
+      "acronym": null,
+      "name": { 
+        "nat": "Friends Service Council (The Quakers)",
+        "en": "Friends Service Council" },
+      "location": "Europe, United Kingdom, London"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for having carried on the work of Fridtjof Nansen to the benefit of refugees across Europe",
+          "institution": [  ],
+          "year": "1938",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1921",
+      "acronym": null,
+      "name": {
+        "nat": "Office international Nansen pour les Réfugiés (Nansen International Office for Refugees)",
+        "en": "Nansen International Office for Refugees"
+      },
+      "location": "Europe, Switzerland, Geneva"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for acting as a link between the peace societies of the various countries, and helping them to organize the world rallies of the international peace movement",
+          "institution": [  ],
+          "year": "1910",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1891",
+      "acronym": null,
+      "name": {
+        "nat": "Bureau international permanent de la Paix",
+        "en": "Permanent International Peace Bureau"
+      },
+      "location": "Europe, Switzerland, Bern"
+    },
+    {
+      "prizes": [ 
+        {
+          "motivation": "for its striving in public law to develop peaceful ties between nations and to make the laws of war more humane",
+          "institution": [  ],
+          "year": "1904",
+          "category": "Peace"
+        } ],
+      "foundationDate": "1873",
+      "acronym": null,
+      "name": { 
+        "nat": "Institut de droit international",
+        "en": "Institute of International Law" },
+      "location": "Europe, Belgium, Ghent"
+    }
+  ]
