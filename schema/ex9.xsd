@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="laurates" type="lauratesType"/>
+
+    <xs:complexType name="lauratesType">
+        <xs:sequence>
+            <xs:element name="laurate" type="laurateType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="laurateType">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="age" type="xs:positiveInteger"/>
+    </xs:complexType>
+</xs:schema>

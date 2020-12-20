@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<laurates>
+<laurates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="schema/ex10.xsd">
    <laurate name="Boris Leonidovich Pasternak">
       <prizestatus>restricted</prizestatus>
    </laurate>

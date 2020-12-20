@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<laurates>
+<laurates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="schema/ex9.xsd">
    <laurate age="17">
       <name>Malala Yousafzai</name>
    </laurate>
@@ -13,17 +14,21 @@
       <name>Tsung-Dao (T.D.) Lee</name>
       <name>Werner Karl Heisenberg</name>
    </laurate>
+   <laurate age="32">
+      <name>Frederick Grant Banting</name>
+      <name>Mairead Corrigan</name>
+      <name>Rudolf Ludwig Mössbauer</name>
+      <name>Tawakkol Karman</name>
+   </laurate>
    <laurate age="33">
       <name>Elizabeth Williams</name>
       <name>Brian David Josephson</name>
       <name>Joshua Lederberg</name>
       <name>Rigoberta Menchú Tum</name>
    </laurate>
-   <laurate age="32">
-      <name>Frederick Grant Banting</name>
-      <name>Mairead Corrigan</name>
-      <name>Rudolf Ludwig Mössbauer</name>
-      <name>Tawakkol Karman</name>
+   <laurate age="34">
+      <name>Donald Arthur Glaser</name>
+      <name>James Dewey Watson</name>
    </laurate>
    <laurate age="35">
       <name>Arthur Holly Compton</name>
@@ -33,9 +38,11 @@
       <name>Martin Luther King Jr.</name>
       <name>Max von Laue</name>
    </laurate>
-   <laurate age="34">
-      <name>Donald Arthur Glaser</name>
-      <name>James Dewey Watson</name>
+   <laurate age="36">
+      <name>Adolf Friedrich Johann Butenandt</name>
+      <name>Archibald Vivian Hill</name>
+      <name>Konstantin Novoselov</name>
+      <name>Marie Curie, née Sklodowska</name>
    </laurate>
    <laurate age="37">
       <name>David Baltimore</name>
@@ -46,19 +53,16 @@
       <name>Niels Henrik David Bohr</name>
       <name>Pieter Zeeman</name>
    </laurate>
-   <laurate age="36">
-      <name>Adolf Friedrich Johann Butenandt</name>
-      <name>Archibald Vivian Hill</name>
-      <name>Konstantin Novoselov</name>
-      <name>Marie Curie, née Sklodowska</name>
-   </laurate>
-   <laurate age="39">
-      <name>Alexis Carrel</name>
-      <name>Ernst Boris Chain</name>
-      <name>Gerd Binnig</name>
-      <name>Glenn Theodore Seaborg</name>
-      <name>Leymah Gbowee</name>
-      <name>Owen Chamberlain</name>
-      <name>Thomas Huckle Weller</name>
+   <laurate age="38">
+      <name>Ernest Orlando Lawrence</name>
+      <name>Frederick Chapman Robbins</name>
+      <name>Georges J.F. Köhler</name>
+      <name>Gustav Ludwig Hertz</name>
+      <name>Irène Joliot-Curie</name>
+      <name>Karl Manne Georg Siegbahn</name>
+      <name>Otto Fritz Meyerhof</name>
+      <name>Richard Kuhn</name>
+      <name>Richard Laurence Millington Synge</name>
+      <name>Robert Bárány</name>
    </laurate>
 </laurates>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<countries>
+<countries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="schema/ex8.xsd">
    <country num="286">USA</country>
    <country num="89">United Kingdom</country>
    <country num="78">Germany</country>

@@ -1,3 +1,5 @@
+(: Díjazottak listája (kártyákon), organization és person külön tabon :)
+
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
 declare namespace op = "http://www.w3.org/2002/08/xquery-operators";
@@ -38,7 +40,7 @@ return
             <title>Nobel prices</title>
             <link
                 rel="stylesheet"
-                href="result5.css"/>
+                href="assets/result5.css"/>
             <link
                 rel="preconnect"
                 href="https://fonts.gstatic.com"/>
@@ -52,7 +54,7 @@ return
                 href="https://fonts.googleapis.com/css2?family=Biryani"
                 rel="stylesheet"/>
             <script
-                src="result5.js"></script>
+                src="assets/result5.js"></script>
         </head>
         <body>
             <div

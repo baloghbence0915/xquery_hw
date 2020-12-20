@@ -1,3 +1,5 @@
+(: Organization típusú díjazottak szűrése (név [natív/angol], acronym, location ["continent, country, city"], alapítás éve, díjak [év/kategória/intézmény/motiváció], RENDEZÉS: legutolsó díjának éve) :)
+
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
 declare namespace op = "http://www.w3.org/2002/08/xquery-operators";

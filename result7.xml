@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<laurates>
+<laurates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="schema/ex7.xsd">
    <laurate>
       <name>Andrea Ghez</name>
       <category>Physics</category>

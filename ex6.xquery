@@ -1,3 +1,5 @@
+(: Azon díjazottak nevének sorolása, melyeknek 1-nél több díja van és díjak számának megjelenítése :)
+
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
 declare namespace op = "http://www.w3.org/2002/08/xquery-operators";
